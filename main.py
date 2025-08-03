@@ -29,3 +29,6 @@ def generate_image(prompt: str, output_path="output.png"):
 if __name__ == "__main__":
     prompt = input("📝 Enter your prompt: ")
     generate_image(prompt)
+
+
+# now it should generate an image based on the user's prompt
